@@ -1,0 +1,5 @@
+﻿{
+    "terminal.integrated.env.windows": {
+        "TERM_PROGRAM": "antigravity"
+    }
+}
